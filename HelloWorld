@@ -1,0 +1,6 @@
+1. public class HelloWorld {
+2.    public static void main(String[] args) {
+3.    // Write your code here
+4.    System.out.println(" HELLO WORLD !")
+5.    }
+6. }
